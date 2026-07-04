@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Act1_Lecc11_inciso1/1.0.0": {
+        "runtime": {
+          "Act1_Lecc11_inciso1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act1_Lecc11_inciso1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\bin\Debug\net8.0\Medidas.exe
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\bin\Debug\net8.0\Medidas.deps.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\bin\Debug\net8.0\Medidas.runtimeconfig.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\bin\Debug\net8.0\Medidas.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\bin\Debug\net8.0\Medidas.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\Medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\Medidas.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\Medidas.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\Medidas.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\Medidas.sourcelink.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\Medidas.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\refint\Medidas.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\Medidas.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\Medidas.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Medidas\Medidas\obj\Debug\net8.0\ref\Medidas.dll

@@ -1,0 +1,14 @@
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\bin\Debug\net8.0\Act2_Lecc7_INC1.exe
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\bin\Debug\net8.0\Act2_Lecc7_INC1.deps.json
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\bin\Debug\net8.0\Act2_Lecc7_INC1.runtimeconfig.json
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\bin\Debug\net8.0\Act2_Lecc7_INC1.dll
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\bin\Debug\net8.0\Act2_Lecc7_INC1.pdb
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\Act2_Lecc7_INC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\Act2_Lecc7_INC1.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\Act2_Lecc7_INC1.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\Act2_Lecc7_INC1.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\Act2_Lecc7_INC1.dll
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\refint\Act2_Lecc7_INC1.dll
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\Act2_Lecc7_INC1.pdb
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\Act2_Lecc7_INC1.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Escritorio\C#\Act2_Lecc7_INC1\Act2_Lecc7_INC1\obj\Debug\net8.0\ref\Act2_Lecc7_INC1.dll

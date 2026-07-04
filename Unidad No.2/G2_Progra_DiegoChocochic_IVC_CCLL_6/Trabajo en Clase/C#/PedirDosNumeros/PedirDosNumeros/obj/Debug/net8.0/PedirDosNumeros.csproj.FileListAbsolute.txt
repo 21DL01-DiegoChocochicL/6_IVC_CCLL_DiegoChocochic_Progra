@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\bin\Debug\net8.0\PedirDosNumeros.exe
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\bin\Debug\net8.0\PedirDosNumeros.deps.json
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\bin\Debug\net8.0\PedirDosNumeros.runtimeconfig.json
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\bin\Debug\net8.0\PedirDosNumeros.dll
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\bin\Debug\net8.0\PedirDosNumeros.pdb
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\PedirDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\PedirDosNumeros.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\PedirDosNumeros.AssemblyInfo.cs
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\PedirDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\PedirDosNumeros.dll
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\refint\PedirDosNumeros.dll
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\PedirDosNumeros.pdb
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\PedirDosNumeros.genruntimeconfig.cache
+C:\Users\LABORATORIO\Desktop\PedirDosNumeros\PedirDosNumeros\obj\Debug\net8.0\ref\PedirDosNumeros.dll

@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\bin\Debug\net8.0\Diasdelasemana.exe
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\bin\Debug\net8.0\Diasdelasemana.deps.json
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\bin\Debug\net8.0\Diasdelasemana.runtimeconfig.json
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\bin\Debug\net8.0\Diasdelasemana.dll
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\bin\Debug\net8.0\Diasdelasemana.pdb
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\Diasdelasemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\Diasdelasemana.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\Diasdelasemana.AssemblyInfo.cs
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\Diasdelasemana.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\Diasdelasemana.dll
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\refint\Diasdelasemana.dll
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\Diasdelasemana.pdb
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\Diasdelasemana.genruntimeconfig.cache
+C:\Users\LABORATORIO\Desktop\Diasdelasemana\Diasdelasemana\obj\Debug\net8.0\ref\Diasdelasemana.dll

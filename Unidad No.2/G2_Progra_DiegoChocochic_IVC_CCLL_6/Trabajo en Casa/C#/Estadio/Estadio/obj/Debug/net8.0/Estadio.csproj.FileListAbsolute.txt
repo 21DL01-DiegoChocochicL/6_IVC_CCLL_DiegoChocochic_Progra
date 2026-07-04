@@ -1,0 +1,15 @@
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\bin\Debug\net8.0\Estadio.exe
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\bin\Debug\net8.0\Estadio.deps.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\bin\Debug\net8.0\Estadio.runtimeconfig.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\bin\Debug\net8.0\Estadio.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\bin\Debug\net8.0\Estadio.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\Estadio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\Estadio.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\Estadio.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\Estadio.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\Estadio.sourcelink.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\Estadio.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\refint\Estadio.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\Estadio.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\Estadio.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\Estadio\Estadio\obj\Debug\net8.0\ref\Estadio.dll

@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO\Desktop\Letras\Letras\bin\Debug\net8.0\Letras.exe
+C:\Users\LABORATORIO\Desktop\Letras\Letras\bin\Debug\net8.0\Letras.deps.json
+C:\Users\LABORATORIO\Desktop\Letras\Letras\bin\Debug\net8.0\Letras.runtimeconfig.json
+C:\Users\LABORATORIO\Desktop\Letras\Letras\bin\Debug\net8.0\Letras.dll
+C:\Users\LABORATORIO\Desktop\Letras\Letras\bin\Debug\net8.0\Letras.pdb
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\Letras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\Letras.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\Letras.AssemblyInfo.cs
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\Letras.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\Letras.dll
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\refint\Letras.dll
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\Letras.pdb
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\Letras.genruntimeconfig.cache
+C:\Users\LABORATORIO\Desktop\Letras\Letras\obj\Debug\net8.0\ref\Letras.dll

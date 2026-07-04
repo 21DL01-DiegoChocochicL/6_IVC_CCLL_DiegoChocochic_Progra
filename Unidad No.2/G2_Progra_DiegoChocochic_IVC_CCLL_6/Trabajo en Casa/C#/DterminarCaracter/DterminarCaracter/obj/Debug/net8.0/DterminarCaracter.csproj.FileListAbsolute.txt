@@ -1,0 +1,15 @@
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\bin\Debug\net8.0\DterminarCaracter.exe
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\bin\Debug\net8.0\DterminarCaracter.deps.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\bin\Debug\net8.0\DterminarCaracter.runtimeconfig.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\bin\Debug\net8.0\DterminarCaracter.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\bin\Debug\net8.0\DterminarCaracter.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\DterminarCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\DterminarCaracter.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\DterminarCaracter.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\DterminarCaracter.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\DterminarCaracter.sourcelink.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\DterminarCaracter.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\refint\DterminarCaracter.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\DterminarCaracter.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\DterminarCaracter.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\DterminarCaracter\DterminarCaracter\obj\Debug\net8.0\ref\DterminarCaracter.dll

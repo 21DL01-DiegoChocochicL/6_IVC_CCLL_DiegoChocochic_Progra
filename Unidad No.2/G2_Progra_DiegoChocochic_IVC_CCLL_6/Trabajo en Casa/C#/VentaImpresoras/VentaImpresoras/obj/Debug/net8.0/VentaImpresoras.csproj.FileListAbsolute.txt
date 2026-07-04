@@ -1,0 +1,15 @@
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\bin\Debug\net8.0\VentaImpresoras.exe
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\bin\Debug\net8.0\VentaImpresoras.deps.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\bin\Debug\net8.0\VentaImpresoras.runtimeconfig.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\bin\Debug\net8.0\VentaImpresoras.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\bin\Debug\net8.0\VentaImpresoras.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\VentaImpresoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\VentaImpresoras.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\VentaImpresoras.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\VentaImpresoras.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\VentaImpresoras.sourcelink.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\VentaImpresoras.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\refint\VentaImpresoras.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\VentaImpresoras.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\VentaImpresoras.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\En clase 7 del 04\Trabajo en Casa\C#\VentaImpresoras\VentaImpresoras\obj\Debug\net8.0\ref\VentaImpresoras.dll

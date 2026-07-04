@@ -1,0 +1,14 @@
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\bin\Debug\net10.0\Act3_Lecc9_inciso1.exe
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\bin\Debug\net10.0\Act3_Lecc9_inciso1.deps.json
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\bin\Debug\net10.0\Act3_Lecc9_inciso1.runtimeconfig.json
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\bin\Debug\net10.0\Act3_Lecc9_inciso1.dll
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\bin\Debug\net10.0\Act3_Lecc9_inciso1.pdb
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\Act3_Lecc9_inciso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\Act3_Lecc9_inciso1.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\Act3_Lecc9_inciso1.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\Act3_Lecc9_inciso1.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\Act3_Lecc9_inciso1.dll
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\refint\Act3_Lecc9_inciso1.dll
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\Act3_Lecc9_inciso1.pdb
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\Act3_Lecc9_inciso1.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Escritorio\PSI\Lecciones_9a_15\Leccion_9\Act3_Lecc9_inciso1\obj\Debug\net10.0\ref\Act3_Lecc9_inciso1.dll
