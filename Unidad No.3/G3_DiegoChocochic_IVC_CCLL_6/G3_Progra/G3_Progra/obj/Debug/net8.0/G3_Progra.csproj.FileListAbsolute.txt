@@ -1,0 +1,15 @@
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\G3_Progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\G3_Progra.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\G3_Progra.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\G3_Progra.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\G3_Progra.sourcelink.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\bin\Debug\net8.0\G3_Progra.exe
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\bin\Debug\net8.0\G3_Progra.deps.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\bin\Debug\net8.0\G3_Progra.runtimeconfig.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\bin\Debug\net8.0\G3_Progra.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\bin\Debug\net8.0\G3_Progra.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\G3_Progra.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\refint\G3_Progra.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\G3_Progra.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\G3_Progra.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\G3_Progra\G3_Progra\obj\Debug\net8.0\ref\G3_Progra.dll
