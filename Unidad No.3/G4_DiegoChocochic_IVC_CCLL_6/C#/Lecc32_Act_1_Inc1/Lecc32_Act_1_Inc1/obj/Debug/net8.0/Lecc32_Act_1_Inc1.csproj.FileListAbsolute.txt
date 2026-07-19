@@ -1,0 +1,15 @@
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\bin\Debug\net8.0\Lecc32_Act_1_Inc1.exe
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\bin\Debug\net8.0\Lecc32_Act_1_Inc1.deps.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\bin\Debug\net8.0\Lecc32_Act_1_Inc1.runtimeconfig.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\bin\Debug\net8.0\Lecc32_Act_1_Inc1.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\bin\Debug\net8.0\Lecc32_Act_1_Inc1.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\Lecc32_Act_1_Inc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\Lecc32_Act_1_Inc1.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\Lecc32_Act_1_Inc1.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\Lecc32_Act_1_Inc1.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\Lecc32_Act_1_Inc1.sourcelink.json
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\Lecc32_Act_1_Inc1.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\refint\Lecc32_Act_1_Inc1.dll
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\Lecc32_Act_1_Inc1.pdb
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\Lecc32_Act_1_Inc1.genruntimeconfig.cache
+C:\Users\alejo\OneDrive\Documentos\GitHub\6_IVC_CCLL_DiegoChocochic_Progra\Unidad No.3\Lecc32_Act_1_Inc1\Lecc32_Act_1_Inc1\obj\Debug\net8.0\ref\Lecc32_Act_1_Inc1.dll
