@@ -41,9 +41,9 @@
             radioButton1 = new RadioButton();
             radioButton2 = new RadioButton();
             groupBox1 = new GroupBox();
+            checkBox1 = new CheckBox();
             label7 = new Label();
             pictureBox1 = new PictureBox();
-            checkBox1 = new CheckBox();
             button1 = new Button();
             progressBar1 = new ProgressBar();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
@@ -183,6 +183,16 @@
             groupBox1.TabStop = false;
             groupBox1.Text = "Datos Personales";
             // 
+            // checkBox1
+            // 
+            checkBox1.AutoSize = true;
+            checkBox1.Location = new Point(20, 181);
+            checkBox1.Name = "checkBox1";
+            checkBox1.Size = new Size(411, 19);
+            checkBox1.TabIndex = 15;
+            checkBox1.Text = "Confirmo que todos mis datos son autorizados para uso de la institucion:";
+            checkBox1.UseVisualStyleBackColor = true;
+            // 
             // label7
             // 
             label7.AutoSize = true;
@@ -200,16 +210,7 @@
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 14;
             pictureBox1.TabStop = false;
-            // 
-            // checkBox1
-            // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(20, 181);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(411, 19);
-            checkBox1.TabIndex = 15;
-            checkBox1.Text = "Confirmo que todos mis datos son autorizados para uso de la institucion:";
-            checkBox1.UseVisualStyleBackColor = true;
+            pictureBox1.Click += pictureBox1_Click;
             // 
             // button1
             // 
