@@ -1,0 +1,16 @@
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.Form1.resources
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.csproj.GenerateResource.cache
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.AssemblyInfoInputs.cache
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.AssemblyInfo.cs
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.csproj.CoreCompileInputs.cache
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\bin\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.exe
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\bin\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.deps.json
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\bin\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.runtimeconfig.json
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\bin\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.dll
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\bin\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.pdb
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.dll
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\refint\EjercicioNo3_DiegoChocochic.dll
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.pdb
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\EjercicioNo3_DiegoChocochic.genruntimeconfig.cache
+C:\Users\LAB-B\Desktop\EjercicioNo3_DiegoChocochic\EjercicioNo3_DiegoChocochic\obj\Debug\net10.0-windows\ref\EjercicioNo3_DiegoChocochic.dll
