@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Act1_Lecc9_inciso1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+373adb03f2020d522e24417a73af385f4f017d1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0166d5207cd42a737bd9b17ad88c0f8eb7fa5330")]
 [assembly: System.Reflection.AssemblyProductAttribute("Act1_Lecc9_inciso1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Act1_Lecc9_inciso1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
